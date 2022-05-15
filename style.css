@@ -1,0 +1,17 @@
+.block {
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    background-color: red;
+    border: solid 3px #000;
+    margin-top: 80px;
+}
+
+.block--2 {
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    background-color: blue;
+    border: solid 3px #000;
+    padding-top: 50px;
+}

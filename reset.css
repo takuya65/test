@@ -200,7 +200,7 @@ a.imgBtn:hover img {
 **************************************** */
 div {zoom:1;/*for IE 5.5-7*/}
 .clearfix:after {
-  content: “.”;
+  content: “”;
   display: block;
   height: 0;
   clear: both;
